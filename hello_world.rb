@@ -6,6 +6,8 @@ def say_message(name)
 end
 
 say_message(class_name)
+say_message("March")
+
 
 
   
